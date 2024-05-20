@@ -9,4 +9,8 @@ siuuuuu
 fea
 feota
 imposible ya
+<<<<<<< HEAD
 rede
+=======
+ederrrrr
+>>>>>>> cuarto
